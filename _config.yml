@@ -16,8 +16,8 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <h1>Jeffrey Chan <br> Machine Learning and Computer Vision</h1>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <h3>Jeffrey Chan</h3><p>Machine Learning and Computer Vision</p>
+  header_text_feature_image: assets/img/torre-blur2.png
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
@@ -30,7 +30,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "binarySequoia"
   google_plus:
   instagram:
   keybase:
@@ -41,7 +41,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: "binarySequoia" # "twitter username"
   vimeo:
   wordpress:
   youtube:
