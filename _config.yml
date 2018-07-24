@@ -3,6 +3,7 @@ baseurl: ""
 url: "https://binarySequoia.github.io"
 title: Binary Sequoia # site's title
 description: "Jeffrey Chan's Personal Blog" # used by search engines
+resume: /assets/pdfs/jeffrey-chan-resume.pdf
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -13,7 +14,7 @@ theme_settings:
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   profile_pic: /assets/img/profile_pic400x400.jpg
-
+  
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <h3>Jeffrey Chan</h3><p>Machine Learning and Computer Vision</p>
@@ -70,7 +71,7 @@ theme_settings:
       enabled: true
     tags:
       icon: "tags"
-      enabled: true
+      enabled: false
   
   # Localization strings
   str_follow_on: "Follow on"
