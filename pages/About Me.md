@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+permalink: /about-me
 tags: [CV, résumé, about me]
 ---
 <center><h1>Jeffrey A. Chan Santiago</h1></center>
@@ -9,7 +10,7 @@ tags: [CV, résumé, about me]
 *	[Résumé.pdf]({{site.resume}}){:target="_blank"}
 *	[CurriculumVitae.pdf]({{site.CV}}){:target="_blank"}
 
-Email: jeffrey _dot_ chan _at_ upr _dot_ edu
+Email: jeffrey _dot_ chan _at_ upr _dot_ edu <br>
 github: [@binarySequoia](https://github.com/binarySequoia){:target="_blank"}
 
 
@@ -52,7 +53,7 @@ Chan, J., Megret, R., et al. _Fingerprint Extraction for Bee Identification_. Un
 
  * **Member of the Association for Computing Machinery (ACM)**&nbsp;&nbsp;*2016 — PRESENT*
  * **Member of the IEEE Computer Society**&nbsp;&nbsp;&nbsp;*2017 — PRESENT*
- * **Member of the Society for Advancement of Chicanos/Hispanics
+ * **Member of the Society for Advancement of Chicanos/Hispanics <br>
  	and Native Americans in Science (SACNAS)**&nbsp;&nbsp;&nbsp;*2018 — PRESENT* 
 
 ## **Honors &amp; Awards**

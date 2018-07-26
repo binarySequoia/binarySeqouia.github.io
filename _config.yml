@@ -21,7 +21,7 @@ theme_settings:
      <h3>Jeffrey Chan</h3><p>Machine Learning and Computer Vision</p>
   header_text_feature_image: assets/img/torre-blur2.png
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
