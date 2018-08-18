@@ -11,14 +11,14 @@ CV: /assets/pdfs/jeffrey-chan-CV.pdf
 theme_settings:
   # Meta
   title: Binary Sequoia # blog's title
-  avatar: assets/img/triangle.svg
-  favicon: assets/favicon.ico
+  avatar: assets/img/binseq2.svg
+  favicon: assets/no-bg.ico
   gravatar: # Email MD5 hash
   profile_pic: /assets/img/profile_pic400x400.jpg
   
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <h3>Jeffrey Chan</h3><p>Machine Learning and Computer Vision</p>
+     <h3 style="color:#FFEEEE; text-shadow: black 0.1em 0.1em 0.2em">Hi, I'm Jeffrey Chan, <br> and I want computers to be smarter than me.</h3>
   header_text_feature_image: assets/img/torre-blur2.png
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a>
@@ -91,7 +91,8 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  #google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  google_fonts: "Bree+Serif:400,700,700italic,400italic"
 
   # Post navigation
   post_navigation: true
