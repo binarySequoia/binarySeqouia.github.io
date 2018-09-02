@@ -18,7 +18,7 @@ theme_settings:
   
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <div style="background-color:rgb(80,80,80,0.5)"><h3 style="color:#FFEEEE; text-shadow: black 0.1em 0.1em 0.2em"> <i>Hi, I'm Jeffrey Chan, <br> and I work with Artificial Intelligence to solve complex problems.</i></h3></div>
+     <div style="background-color:rgb(80,80,80,0.5)"><h3 style="color:#FFEEEE; text-shadow: black 0.1em 0.1em 0.2em"> <i>Hi! I'm Jeffrey Chan, <br> and I work with Artificial Intelligence to solve complex problems.</i></h3></div>
   header_text_feature_image: assets/img/torre-blur2.png
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a>
