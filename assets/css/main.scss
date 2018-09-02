@@ -31,10 +31,21 @@
         padding:9% 12.5%;
         background-size: 150% auto;
     }
-}@media (max-width: 576px){
+}@media (max-width: 900px){
     .call-out{
         padding:6%;
         background-size: 265% auto;
+    }
+}@media (max-width: 390px){
+    .call-out {
+        padding: 6%;
+        background-size: 350% auto;
+    }
+}
+
+@media (max-width: 385px){
+    .avatar{
+        display:none;
     }
 }
 
